@@ -1,4 +1,4 @@
-# dsa
+# Data Structures and Algorithms
 
 To install dependencies:
 
