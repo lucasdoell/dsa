@@ -1,0 +1,9 @@
+{
+  // no AI cheating!
+  "supermaven.enable": {
+    "*": false
+  },
+  "github.copilot.enable": {
+    "*": false
+  }
+}
