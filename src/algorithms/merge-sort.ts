@@ -58,7 +58,7 @@ function merge(a: number[], p: number, q: number, r: number) {
 /**
  * Recursively sorts the given array `a` using the merge sort algorithm.
  *
- * **Time complexity**: O(n)
+ * **Time complexity**: O(n log n)
  *
  * @param a The array to be sorted.
  * @param p The starting index of the array.
